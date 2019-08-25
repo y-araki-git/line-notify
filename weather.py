@@ -3,7 +3,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 import requests
-line_notify_token = 'アクセストークン'
+line_notify_token = '繧｢繧ｯ繧ｻ繧ｹ繝医�ｼ繧ｯ繝ｳ'
 line_notify_api = 'https://notify-api.line.me/api/notify'
 
 # Get Weather Information (Default:Tokyo, Ibaraki, Japan)
